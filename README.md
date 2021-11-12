@@ -1,4 +1,4 @@
-Hi, I'm Khusniddin Akhmadjanov 👋
+<h1> Hi, I'm Khusniddin Akhmadjanov 👋 </h1>
 
 - 🔭 I’m currently working on Front-End
 - 🌱 I’m currently learning JavaScript advanced
