@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusniddin-akhmadjanov)](https://github.com/khusniddin-akhmadjanov/github-readme-stats)
-![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusniddin-akhmadjanov&show_icons=true&theme=radical)
 
 
 
