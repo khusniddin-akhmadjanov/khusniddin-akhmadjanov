@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusniddin-akhmadjanov)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **khusniddin-akhmadjanov/khusniddin-akhmadjanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
