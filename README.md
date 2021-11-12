@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusniddin-akhmadjanov&show_icons=true&theme=great-gatsby)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khusniddin-akhmadjanov&repo=github-readme-stats)](https://github.com/khusniddin-akhmadjanov/github-readme-stats)
 
 
 
