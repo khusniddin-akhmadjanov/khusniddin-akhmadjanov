@@ -13,6 +13,12 @@ HTML5  | CSS3 | Sass | BEM methodology | Bootstrap | Javascript | React |  Redux
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khusniddin-akhmadjanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<h1>Studied:</h1>
+
+-TUIT (Tashkent University of Information Technology)
+-Najot Ta'lim
+
 <h1>Blog:</h1>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0077B7)](https://www.linkedin.com/in/husniddin-ahmadjanov-719a63203/)
