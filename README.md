@@ -7,12 +7,8 @@
 - 😄 Pronouns: Hi/His
 - ⚡ Fun fact: I'm interested in problem solving
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khusniddin-akhmadjanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusniddin-akhmadjanov&show_icons=true&theme=great-gatsby)
+![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusniddin-akhmadjanov&show_icons=true&theme=great-gatsby) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khusniddin-akhmadjanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
