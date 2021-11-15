@@ -16,8 +16,9 @@ HTML5  | CSS3 | Sass | BEM methodology | Bootstrap | Javascript | React |  Redux
 
 <h1>Studied:</h1>
 
--TUIT (Tashkent University of Information Technology)
--Najot Ta'lim
+#TUIT (Tashkent University of Information Technology)
+
+#Najot Ta'lim
 
 <h1>Blog:</h1>
 
