@@ -7,7 +7,9 @@
 - 😄 Pronouns: Hi/His
 - ⚡ Fun fact: I'm interested in problem solving
 
-Skils: HTML5  | CSS3 | Sass | BEM methodology | Bootstrap | Javascript | React |  Redux | Material UI | Git | Github |  
+<h1>Skills:</h1> 
+
+HTML5  | CSS3 | Sass | BEM methodology | Bootstrap | Javascript | React |  Redux | Material UI | Git | Github |  
 
 
 
