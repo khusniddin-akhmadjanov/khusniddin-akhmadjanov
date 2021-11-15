@@ -7,7 +7,7 @@
 - 😄 Pronouns: Hi/His
 - ⚡ Fun fact: I'm interested in problem solving
 
-<button>linkedin</button>
+<button style="color: red;">linkedin</button>
 
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusniddin-akhmadjanov&show_icons=true&theme=great-gatsby)
 
