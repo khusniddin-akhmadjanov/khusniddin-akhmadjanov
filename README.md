@@ -15,8 +15,6 @@ HTML5  | CSS3 | Sass | BEM methodology | Bootstrap | Javascript | React |  Redux
 
 <h1>Blog:</h1>
 
-=======================================================================================================================================================================
-
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0077B7)](https://www.linkedin.com/in/husniddin-ahmadjanov-719a63203/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/husniddin.ahmadjanov)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/khusniddin05.07/?hl=ru)
