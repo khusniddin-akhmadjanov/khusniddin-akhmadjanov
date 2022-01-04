@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Front-End
 - 🌱 I’m currently learning JavaScript advanced
 - 🤔 I’m looking for help with Google
-- 📫 How to reach me: ahmadjanov2002@inbox.ru
+- 📫 How to reach me: khusniddin0507@gmail.com
 - 😄 Pronouns: Hi/His
 - ⚡ Fun fact: I'm interested in problem solving
 
