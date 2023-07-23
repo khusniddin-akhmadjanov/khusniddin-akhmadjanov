@@ -9,7 +9,7 @@
 
 <h1>Skills:</h1> 
 
-HTML5  | CSS3 | Sass | BEM methodology | Bootstrap | Javascript | React | Next.js | Material UI | Tailwind | Git | Github |  Googling
+HTML5  | CSS3 | Sass | BEM methodology | Bootstrap | Javascript | React | Typescript | Next.js | Material UI | Tailwind | Git | Github 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khusniddin-akhmadjanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
